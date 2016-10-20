@@ -2,5 +2,6 @@ function doClick(e) {
     alert($.label.text);
     
 }
-alert("Opened");
+
+alert("OpenedChanged");
 $.index.open();
