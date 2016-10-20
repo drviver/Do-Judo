@@ -3,5 +3,4 @@ function doClick(e) {
     
 }
 
-alert("OpenedChanged");
 $.index.open();
